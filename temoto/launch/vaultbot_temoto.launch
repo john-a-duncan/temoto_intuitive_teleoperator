@@ -8,7 +8,7 @@
   <!-- <include file="$(find pocketsphinx)/launch/pocketsphinx.launch" /> -->
   <!-- rosrun temoto kb_fake_voice_commander -->
   <!-- rosrun keyboard_reader keyboard_event_publisher -->
-  <include file="$(find google_speech_to_text)/launch/google_speech_to_text.launch" />
+  <include file="$(find google_speech_to_text)/launch/en-US.launch" />
 
 
   <!-- LeapMotion or SpaceMouse? -->
